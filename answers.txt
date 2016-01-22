@@ -1,0 +1,9 @@
+(a) # of commits: 2
+(b) August 20, 2015
+(c) ".gitignore" , ".classpath" , ".gitattributes" , ".project", "README.txt". 
+(d) WoodItem.java was modified 1 time.
+(e) "git status" shows you all the uncommitted files while "git log" shows ou all the committed files along with the modifier and timestamp.
+(f) gitk main.java
+(g)git log --grep = "transaction"
+(h)git log --author = "Lauren" after= "01/05/2016" before="02/16/2016"
+
